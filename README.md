@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react, typescript**
 
-- 🙄 What are you looking for [I'm currently training at ADA TECH SCHOOL, a Tech school that promotes promotes women in Tech, and I'm looking for a 12-month work-study program starting October 2023 as a developer (4 days in the company and 1 day in training).](I'm currently training at ADA TECH SCHOOL, a Tech school that promotes promotes women in Tech, and I'm looking for a 12-month work-study program starting October 2023 as a developer (4 days in the company and 1 day in training).)
+- I'm currently training at ADA TECH SCHOOL, a Tech school that promotes promotes women in Tech, and I'm looking for a 12-month work-study program starting October 2023 as a developer (4 days in the company and 1 day in training).(I'm currently training at ADA TECH SCHOOL, a Tech school that promotes promotes women in Tech, and I'm looking for a 12-month work-study program starting October 2023 as a developer (4 days in the company and 1 day in training).)
 
 - 💬 Ask me about **Javascript**
 
