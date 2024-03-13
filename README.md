@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mafoasteve9" alt="mafoasteve9" /></a> </p>
 
-- 🌱 I’m currently learning **react, typescript**
+- 🌱 I’m currently learning **angular, typescript**
 
 - I'm currently training at ADA TECH SCHOOL, a Tech school that promotes promotes women in Tech, and I'm looking for a 12-month work-study program starting October 2023 as a developer (4 days in the company and 1 day in training).(I'm currently training at ADA TECH SCHOOL, a Tech school that promotes promotes women in Tech, and I'm looking for a 12-month work-study program starting October 2023 as a developer (4 days in the company and 1 day in training).)
 
