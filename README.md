@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mafoasteve9" alt="mafoasteve9" /></a> </p>
 
-- 🌱 I’m currently learning **angular, typescript**
+- 🌱 I’m currently learning **angular 17, typescript**
 
 - I'm currently training at ADA TECH SCHOOL, a Tech school that promotes promotes women in Tech, and I'm looking for a 12-month work-study program starting October 2023 as a developer (4 days in the company and 1 day in training).(I'm currently training at ADA TECH SCHOOL, a Tech school that promotes promotes women in Tech, and I'm looking for a 12-month work-study program starting October 2023 as a developer (4 days in the company and 1 day in training).)
 
@@ -13,9 +13,6 @@
 
 - 📫 How to reach me **steve_mafoa@outlook.com**
 
-- 📄 Know about my experiences [Stage Web Developer :Write the code needed to run the site - Test site operation from all points of view (testing) - Correct any errors that have appeared (debugging) - Put the developed site online on schedule - Develop technical support documentation - Solve technical problems related to site operationMy tasks : - Write the code required to run the site - Test the site's correct operation from all points of view (testing) - Correct any errors that have appeared (debugging) - Put the developed site online within the set timescale - Develop the technical support documentation - Resolve any technical problems linked to the site's operation. Skills: Vue.js - Figma (software) - Trello - GitHub - PhpMyAdmin - PHP - SQL - Git](Stage Web Developer :Write the code needed to run the site - Test site operation from all points of view (testing) - Correct any errors that have appeared (debugging) - Put the developed site online on schedule - Develop technical support documentation - Solve technical problems related to site operationMy tasks : - Write the code required to run the site - Test the site's correct operation from all points of view (testing) - Correct any errors that have appeared (debugging) - Put the developed site online within the set timescale - Develop the technical support documentation - Resolve any technical problems linked to the site's operation. Skills: Vue.js - Figma (software) - Trello - GitHub - PhpMyAdmin - PHP - SQL - Git)
-
-- ⚡ Fun fact **I am funny 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
