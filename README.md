@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **angular, ionic, typescript**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript, PHP**
 
 - 📫 How to reach me **steve_mafoa@outlook.com**
 
